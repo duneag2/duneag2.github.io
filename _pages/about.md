@@ -14,6 +14,6 @@ I am a B.S/M.S integrated student in Applied Mathematics at Korea University, su
 
 My research integrates Mathematics and ML/DL/DRL to enhance **Responsible AI**. With a solid mathematical background from exploring **enumerative combinatorics**, I develop **interpretable** and **causal** models, with a focus on **tabular data**, **audio** and **vision (including medical imaging and healthcare)** domains, and **responsible machine learning operations (MLOps)**.
 
-I interned as an undergraduate researcher at [Korea University Anam Hospital](https://www.kumc.or.kr/en/index.do) and [Institute of Data Science, Korea University](https://kuids.korea.ac.kr/kuids/index.do), and as a data scientist at [SCIEN, Inc](http://www.scien.co.kr/?locale=en_US).
+I interned as an undergraduate researcher at [Korea University Anam Hospital](https://www.kumc.or.kr/en/index.do) and [Institute of Data Science, Korea University](https://kuids.korea.ac.kr/kuids/index.do), and as a data scientist & engineer at [SCIEN, Inc](http://www.scien.co.kr/?locale=en_US).
 
 
