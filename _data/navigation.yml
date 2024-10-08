@@ -10,13 +10,13 @@ main:
     url: /files/CV_seungeun_lee_oct08.pdf
     
   - title: "Publications"
-    url: /_pages/publications.md
+    url: /publications/
 
   # - title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #  url: /teaching/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
