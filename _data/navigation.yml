@@ -24,8 +24,8 @@ main:
   - title: "Posts"
     url: /year-archive/
     
-  - title: "Miscellaneous"
-    url: /misc/
+  - title: "Personal"
+    url: /personal/
     
   # - title: "Guide"
   #  url: /markdown/
