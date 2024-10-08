@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile3.png"
   name             : "Seungeun Lee 이승은"
   pronouns         : # example: "she/her"  
   bio              : "B.S/M.S. integrated student in Mathematics, Korea University"
