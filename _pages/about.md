@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Seungeun Lee"
-author_profile: False
+title: ""
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
