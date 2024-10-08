@@ -339,6 +339,14 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-23LRB5HKN3"
+    anonymize_ip         : # true, false (default)
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
