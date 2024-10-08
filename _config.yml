@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Seungeun Lee 이승은"
+title                    : "Seungeun Lee"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Seungeun Lee"
+  name             : "Seungeun Lee 이승은"
   pronouns         : # example: "she/her"  
   bio              : "B.S/M.S. integrated student in Mathematics, Korea University"
   location         : "Seoul, Korea"
