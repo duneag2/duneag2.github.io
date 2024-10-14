@@ -22,7 +22,7 @@ main:
   #  url: /portfolio/
         
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
     
   - title: "Personal"
     url: /personal/
