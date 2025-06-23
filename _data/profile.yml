@@ -35,7 +35,7 @@ portrait_url: /assets/images/photos/seungeun.jpg
 education:
 - name: New York University
   position: Ph.D. student in Computer Science
-  date: Sep. 2025 - present
+  date: Sep 2025 - Present
 - name: Korea University
   position: M.S. in Mathematics (Applied Mathematics)
   date: Mar 2024 - Aug 2025
@@ -43,11 +43,16 @@ education:
   position: B.S. in Mathematics, B.E. in Computer Science and Engineering (Magna Cum Laude)
   date: Mar 2020 - Feb 2024
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Department of Mathematics, Korea University
+  position: Undergraduate Research Intern
+  date: Apr 2023 - Feb 2024
+- name: Department of Radiology, Korea University Anam Hospital
+  position: Undergraduate Research Intern
+  date: Apr 2022 - Mar 2023
+- name: Institute of Data Science, Korea University
+  position: Undergraduate Research Intern
+  date: Nov 2021 - Mar 2022
 
 # awards:
 # - name: Award Name 2
