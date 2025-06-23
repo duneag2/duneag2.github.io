@@ -10,7 +10,7 @@ positions:
 
 email: "seungeun.lee@nyu.edu"
 # cv_link: link-to-your-cv-file
-gscholar: needstobefilled  # This is an example, replace it with your own Google Scholar ID
+gscholar:   # This is an example, replace it with your own Google Scholar ID
 github: duneag2
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -28,9 +28,9 @@ short_bio: >-
     bio needs to be filled
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/seungeun.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: New York University
