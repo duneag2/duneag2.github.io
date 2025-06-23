@@ -37,3 +37,4 @@ plugins:
 collections:
   - publications
   - showcase
+  - personal
