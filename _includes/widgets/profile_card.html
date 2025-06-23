@@ -31,7 +31,7 @@
                         </div>
                         <div class="text-profile-position">
                             {% for position in site.data.profile.positions %}
-                            {{ position.name }}<br/>
+                                {{ position.name }}<br/>
                             {% endfor %}
                         </div>
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
