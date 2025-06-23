@@ -4,7 +4,7 @@ navbar_name: "Seungeun Lee"
 
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: updateneeded
+- name: updateneeded
 - name: updateneeded2
 
 
