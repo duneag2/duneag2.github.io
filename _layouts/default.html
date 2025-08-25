@@ -1,3 +1,4 @@
+<!-- _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <!-- Template: https://github.com/luost26/academic-homepage -->
@@ -5,7 +6,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ page.title }} - {{ site.data.profile.navbar_name }}</title>
-    <link rel="icon" href="{{ '/assets/favicon.ico?v=1' | relative_url }}">
+
+    <!-- Favicons -->
+    <link rel="icon" href="{{ '/favicon.ico?v=1' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png?v=1' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon-16.png?v=1' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png?v=1' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/assets/safari-pinned-tab.svg' | relative_url }}" color="#5bbad5">
+    <link rel="manifest" href="{{ '/assets/site.webmanifest?v=1' | relative_url }}">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#ffffff">
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
