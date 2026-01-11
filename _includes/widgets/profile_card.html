@@ -51,7 +51,7 @@
                         </a>
                         {% if site.data.profile.cv_link %}
                         <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
-                          <i class="fas fa-file-alt"></i> <span class="link-text">Curriculum Vitae</span>
+                          <i class="fas fa-file-alt"></i> Curriculum Vitae
                         </a>
                         {% endif %}
                         {% if site.data.profile.gscholar %}
@@ -61,13 +61,13 @@
                         {%- assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
                         {%- endif -%}
                         <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}">
-                            <i class="fab fa-google-scholar"></i> <span class="link-text">Google Scholar</span>
+                            <i class="fab fa-google-scholar"></i> Google Scholar
                         </a>
                         {% endif %}
                         
                         {% if site.data.profile.github %}
                         <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
-                            <i class="fab fa-github"></i> <span class="link-text">GitHub</span>
+                            <i class="fab fa-github"></i> GitHub
                         </a>
                         {% endif %}
 
