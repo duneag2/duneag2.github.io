@@ -46,11 +46,11 @@
                 <hr />
                 <div class="row">
                     <div class="col">
-                        <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
+                        <a class="no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
                             <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
                         </a>
                         {% if site.data.profile.cv_link %}
-                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
+                        <a class="no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
                           <i class="fas fa-file-alt"></i> Curriculum Vitae
                         </a>
                         {% endif %}
@@ -60,13 +60,13 @@
                         {%- else -%}
                         {%- assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
                         {%- endif -%}
-                        <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}">
+                        <a class="no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}">
                             <i class="fab fa-google-scholar"></i> Google Scholar
                         </a>
                         {% endif %}
                         
                         {% if site.data.profile.github %}
-                        <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
+                        <a class="no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
                             <i class="fab fa-github"></i> GitHub
                         </a>
                         {% endif %}
