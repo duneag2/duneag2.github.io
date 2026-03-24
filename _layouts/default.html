@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ page.title }} - {{ site.data.profile.navbar_name }}</title>
+    <title>{% if page.title == "Homepage" %}{{ site.data.profile.navbar_name }}{% else %}{{ page.title }}{% endif %}</title>
 
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="assets/favicon.ico/favicon-96x96.png" sizes="96x96" />
