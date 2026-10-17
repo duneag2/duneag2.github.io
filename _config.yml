@@ -31,6 +31,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+    - publications.html
 
 # timezone: Asia/Shanghai
 
